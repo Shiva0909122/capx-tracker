@@ -108,6 +108,10 @@ The build files will be located in the `dist` folder.
 
 For more information, check [Netlify Deployment Docs](https://docs.netlify.com/).
 
+### OutPut
+
+![image](https://github.com/user-attachments/assets/6790bba4-c27b-44cb-8591-ff6cbd2117b2)
+
 
 ## Contact
 

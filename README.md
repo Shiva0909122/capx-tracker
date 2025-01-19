@@ -16,6 +16,8 @@ CAPX Tracker is a web-based application designed to simplify expense and portfol
 - **Build Tool**: Vite
 
 ## Project Structure
+### Doc 
+[Capx Portfolio Tracker.pdf](https://github.com/user-attachments/files/18469572/Capx.Portfolio.Tracker.pdf)
 
 ```plaintext
 capx-tracker/

@@ -1,7 +1,3 @@
-Here’s a draft for your `README.md` file:
-
----
-
 # CAPX Tracker
 
 CAPX Tracker is a web-based application designed to simplify expense and portfolio tracking. It allows users to monitor their stock holdings, calculate portfolio value based on real-time stock prices, and view key performance metrics.
@@ -86,7 +82,7 @@ capx-tracker/
    npm run dev
    ```
 
-   The app will be available at `https://simple-portfolio-tracker.netlify.app/`.
+   The app will be available at https://simple-portfolio-tracker.netlify.app/.
 
 ### Build for Production
 
